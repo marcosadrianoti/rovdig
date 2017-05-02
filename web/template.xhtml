@@ -8,14 +8,30 @@
         <title>Sistemas Carros</title>
     </h:head>
     <h:body>
-        <h1>Sistemas Carros</h1>
+        <div id="logo" style="height: 100px;
+             width : 192px;
+             background-color : #CCE7FF;
+             float: left;">
+            <img src="img/logo-PLA.png" alt="PLA" width="192px" height="100px" align="center" padding="0px"/>
+        </div>
+        <div id="title" style="height: 97px;
+             margin-left: 192px;
+             font-family: arial;
+             background-color : #CCE7FF;
+             text-align: center;
+             display: flex;
+             align-items: center;
+             justify-content: center;">
+            <p><strong><font size="5">ROVDigital</font></strong><br/>Registro de Operações de Voo</p>
+        </div>
         <h:form>
             <p:menubar>
                 <p:menuitem value="Home" url="index.jsf"></p:menuitem>
                 <p:menuitem value="Gerenciar Carros" url="gerenciar-carro.jsf"></p:menuitem>
+                <p:menuitem value="Gerenciar Aeroportos" url="gerenciar-aeroportos.jsf"></p:menuitem>
             </p:menubar>
         </h:form>
-        <hr/>
+        <!--<hr/>-->
         <ui:insert></ui:insert>
     </h:body>
 </html>

@@ -8,7 +8,12 @@
             <file>file:/home/danilo/NetBeansProjects/sistema-carros/web/gerenciar-carro.xhtml</file>
         </group>
         <group>
-            <file>file:/E:/www/rovdig/web/gerenciar-carro.xhtml</file>
+            <file>file:/E:/www/rovd/web/gerenciar-carro.xhtml</file>
+            <file>file:/E:/www/rovd/src/java/br/com/ciac/rovd/dao/AirportDAO.java</file>
+            <file>file:/E:/www/rovd/src/java/br/com/ciac/rovd/bean/StateBean.java</file>
+            <file>file:/E:/www/rovd/web/template.xhtml</file>
+            <file>file:/E:/www/rovd/src/java/br/com/ciac/rovd/bean/AirportBean.java</file>
+            <file>file:/E:/www/rovd/web/gerenciar-aeroportos.xhtml</file>
         </group>
     </open-files>
 </project-private>
